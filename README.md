@@ -3,7 +3,7 @@ Hi there! 👋<br>I'm Susritha, pursuing a Bachelor's degree at Indian Institute
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/susritha-sabbini-117361254)[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=LeetCode&logoColor=white)](https://leetcode.com/susrithasabbini/) [![GFG](https://img.shields.io/badge/GeeksforGeeks-%2300C853.svg?logo=GeeksforGeeks&logoColor=white)](https://www.geeksforgeeks.org/user/susrithasabbini/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/susritha-sabbini-117361254) [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=LeetCode&logoColor=white)](https://leetcode.com/susrithasabbini/) [![GFG](https://img.shields.io/badge/GeeksforGeeks-%2300C853.svg?logo=GeeksforGeeks&logoColor=white)](https://www.geeksforgeeks.org/user/susrithasabbini/)
 
 
 # 💻 Tech Stack:
