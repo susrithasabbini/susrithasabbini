@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! 👋<br>I'm Susritha, pursuing a Bachelor's degree at Indian Institute of Information Technology, Sri City. I'm passionate about web development and constantly learning new technologies to enhance my skills.<br>A passionate backend developer from India.<br><br>🔭 I’m currently working on honing my web development and machine learning skills and building interesting projects.<br><br>🌱 I’m currently learning new back-end frameworks and exploring front-end development.<br><br>👯 I’m looking to collaborate on web development projects and contribute to open-source initiatives.
+Hi there! 👋<br>I'm Susritha, pursuing a Bachelor's degree at Indian Institute of Information Technology, Sri City. I'm passionate about web development and constantly learning new technologies to enhance my skills.<br>A passionate backend developer from India.<br><br>🔭 I’m currently working on react with rescript and recoil.js.<br><br>🌱 I’m currently learning new back-end framework rust.<br><br>👯 I’m looking to collaborate on web development projects and contribute to open-source initiatives.
 
 
 ## 🌐 Socials:
